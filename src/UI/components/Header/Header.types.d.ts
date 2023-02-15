@@ -1,5 +1,11 @@
 import { AppBarProps as MuiAppBarProps } from '@mui/material/AppBar';
 
-declare interface IAppBarProps extends MuiAppBarProps {
+export interface IAppBarProps extends MuiAppBarProps {
     open?: boolean;
+}
+
+export interface IHeader {
+    title?: string;
+    isOpen: boolean;
+    openDrawer: () => void;
 }
