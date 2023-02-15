@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/liafell/static/css/main.81b28be6.css",
-    "main.js": "/liafell/static/js/main.2f29ed0b.js",
+    "main.css": "/liafell/static/css/main.76c43f98.css",
+    "main.js": "/liafell/static/js/main.723072ef.js",
     "static/js/787.1cc28b1c.chunk.js": "/liafell/static/js/787.1cc28b1c.chunk.js",
     "index.html": "/liafell/index.html",
-    "main.81b28be6.css.map": "/liafell/static/css/main.81b28be6.css.map",
-    "main.2f29ed0b.js.map": "/liafell/static/js/main.2f29ed0b.js.map",
+    "main.76c43f98.css.map": "/liafell/static/css/main.76c43f98.css.map",
+    "main.723072ef.js.map": "/liafell/static/js/main.723072ef.js.map",
     "787.1cc28b1c.chunk.js.map": "/liafell/static/js/787.1cc28b1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81b28be6.css",
-    "static/js/main.2f29ed0b.js"
+    "static/css/main.76c43f98.css",
+    "static/js/main.723072ef.js"
   ]
 }
